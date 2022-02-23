@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Further proposals for amending and settling the coyn by a person of honour.</title>
+            <author>Person of honour.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40754</idno>
+            <idno type="STC">Wing F2563</idno>
+            <idno type="STC">ESTC R6964</idno>
+            <idno type="EEBO-CITATION">11798703</idno>
+            <idno type="OCLC">ocm 11798703</idno>
+            <idno type="VID">49337</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40754)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49337)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 493:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Further proposals for amending and settling the coyn by a person of honour.</title>
+                  <author>Person of honour.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and sold by M. Whitlock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Hunterian Museum Library, Glasgow.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Currency question --  England.</term>
+               <term>Coinage --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49337:1"/>
+            <!-- PDF PAGE 22 -->
+            <pb facs="tcp:49337:1"/>
+            <!-- PDF PAGE 22 -->
+            <p>FURTHER PROPOSALS FOR Amending and Settling THE COYN.</p>
+            <p>By a Perſon of Honour.</p>
+            <p>
+               <hi>LONDON:</hi> Printed, and Sold by <hi>M. Whitlock,</hi> near <hi>Stationers-Hall,</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49337:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="3" facs="tcp:49337:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>Further Propoſals, &amp;c.</head>
+            <p>THere are but Two Ways of Redreſſing the Diſorder of our <hi>Coyne.</hi>
+            </p>
+            <p>The One by calling in all the Old that is Clipp'd, and Coyning it New into Mill'd Money.</p>
+            <p>Th' other of giving all the Old Money courſe, for at leaſt one Year longer, but with Denominations different from what they bear at preſent, and more proportioned to their Weight or intrinſick Value.</p>
+            <p>Of theſe Two, that is to be choſen which has the feweſt Inconveniencies attend
+<pb n="4" facs="tcp:49337:3"/>
+               <!-- PDF PAGE 24 -->it, for ſome, nay, many perhaps, there will be in both.</p>
+            <p>In the firſt Remedy the Inconveniencies are,</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> The great dimunition of the cur<g ref="char:EOLhyphen"/>rent Species of Money in the Kingdom, computed to amount to at leaſt Two Mil<g ref="char:EOLhyphen"/>lions, by which there will come to be in proportion, ſo many fewer pieces of Crowns, half Crowns, Shillings, and Six Pences, than were before in common uſe, to the great Prejudice of common Markets, as well as other greater Payments, publick or pri<g ref="char:EOLhyphen"/>vate.</item>
+               <item>
+                  <hi>Secondly,</hi> If all Clipp'd Money be called in, and new Coined, and by the Ancient Standard, as to Weight and Denomination, our Money will ſtill be carried abroad, ra<g ref="char:EOLhyphen"/>ther than our Commodities, whileſt Tra<g ref="char:EOLhyphen"/>ders can get more by Exporting one than the other. For though the Plenty or Scarcity
+<pb n="5" facs="tcp:49337:3"/>
+                  <!-- PDF PAGE 24 -->of Money in a Countrey, depend upon the Proportion or Ballance betwixt Exportation and Importation; yet, the better our Mo<g ref="char:EOLhyphen"/>ney is, the more in Specie will be Exported, and the worſe it is, the more will be Expor<g ref="char:EOLhyphen"/>ted in Commodities, which has evidently occaſioned the quick vent, and thereby dear<g ref="char:EOLhyphen"/>neſs of all Commodities for theſe Years paſt, ſince our Money has been ſo generally Clip<g ref="char:EOLhyphen"/>ped.</item>
+               <item>The <hi>Third Inconvenience</hi> will be from the neceſſity of the Time to he taken up in Cal<g ref="char:EOLhyphen"/>ling in all the bad Money, and Coining Good, which will occaſion great Diſorders in all Markets and Payments, till both be finiſh<g ref="char:EOLhyphen"/>ed; and for this I ſee no Remedy.</item>
+               <item>
+                  <hi>Fourthly,</hi> Though the loſs of what is paid into the King's Exchequer, be borne by the Publick, yet that will not indemnifie Men in private Payments, ſo as many will ſtill loſe by this Remedy in their particular Stocks, as well as the Nation in their Gene<g ref="char:EOLhyphen"/>ral
+<pb n="6" facs="tcp:49337:4"/>
+                  <!-- PDF PAGE 25 -->Stock, and no one Particular will make any Gain.</item>
+            </list>
+            <p>On the other ſide, and upon the Second Expedient, Suppoſe that every Crown, or half Crown Milled, or not Clipped, ſhould be raiſed in Denomination and current Pay<g ref="char:EOLhyphen"/>ment, the one to Six, the other to Three Shillings, every ſuch Shilling to Fifteen Pence; and Six Pence to Seven Pence half Penny. Every half Crown Clipped, but not within the Ring, remain at its common Value: and ſo likewiſe Shillings and Six-Pences: But every half Crown Clipped within the Ring, be cryed down to Twen<g ref="char:EOLhyphen"/>ty Pence; every Shilling ſo Cliped to Eight Pence, and every ſuch Six-Pence to a Groat, or Four Pence.</p>
+            <list>
+               <item>In the firſt Place, all the old, broad, and mill'd Money, which now lies hoarded up in Bankers, and Rich Private Hands, would immediately come out into common uſe, by reaſon of the Gains would be made upon the
+<pb n="7" facs="tcp:49337:4"/>
+                  <!-- PDF PAGE 25 -->increaſe of its value, or at leaſt current uſe and Denomination. So that as a great many would be loſers by crying down the current Price of the Clipped Money, ſo a great many would be Gainers by crying up the Good; and thoſe that loſe, would loſe but little, becauſe every Body has paid off, for ſome time, all Clipp'd Money as faſt as it came in.</item>
+               <item>
+                  <hi>Secondly,</hi> By this the General Stock of Money current, would perhaps not at all be leſſened in the Denomination, conſidering how much of the old, or weighty Money may be preſumed to be hoarded up. And more Money would fall into Commerce than does at preſent, becauſe that it would come into common Payments, which is now kept cloſe, and by the vaſt number of <hi>Guinea's</hi> which have appeared of King <hi>Charles,</hi> and King <hi>James</hi>'s Coin, it may be gueſt how much of old, or mill'd Money would ſoon appear, if the Price were raiſed.</item>
+               <item>
+                  <pb n="8" facs="tcp:49337:5"/>
+                  <!-- PDF PAGE 26 -->
+                  <hi>Thirdly,</hi> By crying up our good Money, Traders would be tempted to Export leſs abroad, and turn as much as they could, to Export our Commodities, which would make Trade quick, and encourage both common Labour, and Manufactures among us. And our Money ſo Coined, and <hi>Guinea</hi>'s fixed to go at Six and Twenty Shillings, would bring our Coine in the Intrinſick, and the Denomination to that of our Neigh<g ref="char:EOLhyphen"/>bours, as can well be contrived; without which the Temptation will ſtill be great, to carry our Money abroad.</item>
+               <item>
+                  <hi>Fourthly,</hi> All the Denominations will run eaſily into common Accounts and Reckon<g ref="char:EOLhyphen"/>ings, and the ſeveral Species of our Money will be augmented by ſo many Groats, Eight Pences; Twenty Pences; whereas there ſeem to be now too few left for common uſe, ſince no more Nine-Pences, Groats, Four-Pence-Half-Pennys, are in uſe, nor any Pieces of Silver under Six-Pence.</item>
+               <item>
+                  <pb n="9" facs="tcp:49337:5"/>
+                  <!-- PDF PAGE 26 -->
+                  <hi>Fifthly,</hi> The <hi>Money</hi> to be given by the <hi>Parliament,</hi> to make up the loſs of Clipp'd <hi>Money,</hi> will be ſaved the Nation, at a time when ſo great Sums are like to be raiſed for other uſes, and this may be left for a better ſeaſon.</item>
+               <item>
+                  <hi>Laſtly,</hi> No ſtop will be made in any com<g ref="char:EOLhyphen"/>mon Payments, either Publick or Private, but every Man content for once only, to fit down with the loſs of the <hi>Clipp'd Money</hi> he ſhall have by him, in <hi>proportion,</hi> as it ſhall be debaſed in <hi>common value,</hi> whilſt others will have reaſon to be pleaſed with the Gains they ſhall make by producing their <hi>mill'd,</hi> or <hi>old, unclipp'd Money.</hi>
+               </item>
+            </list>
+            <p>Now for the Inconveniences to be found in this, I ſee none of weight, beſides the Diſputes that may be occaſioned between <hi>Man</hi> and <hi>Man,</hi> about the <hi>Clipp'd Money,</hi> whether it be within, or without the Ring,
+<pb n="10" facs="tcp:49337:6"/>
+               <!-- PDF PAGE 27 -->and thereby what current Price it ought to hold.</p>
+            <p>The Deſcription ſeems to be ſo plain, that the Diſputes will not be ſuch as the force of Commerce will not eaſily break tho<g ref="char:EOLhyphen"/>rough.</p>
+            <p>Or elſe the Clerk of every <hi>Market</hi> may be made the preſent Judge, or where there is none, the Parſon of every Pariſh: beſides, <hi>Stamps</hi> may be made, and every Letter-Of<g ref="char:EOLhyphen"/>fice, to aſcertain the Value of every Piece, as there received, which might otherwiſe fall into Diſpute.</p>
+            <p>If this will not do, I know nothing elſe, but for all <hi>Clipp'd Money</hi> to go by weight.</p>
+            <p>I ſay nothing here of falſe Money, be<g ref="char:EOLhyphen"/>cauſe that will not paſs, when and where it is plainly found out, and in all Countries,
+<pb n="11" facs="tcp:49337:6"/>
+               <!-- PDF PAGE 27 -->and at all times, there will be of it current, ſo much as is not eaſily diſcovered. The Remedy both of this and <hi>Clipping</hi> (though the laſt will be diſcouraged, by the riſe and fall, propoſed in our <hi>Coyne</hi>) muſt be endea<g ref="char:EOLhyphen"/>voured by ſuch Puniſhments as will deter more, than what is at preſent, and yet will not prevail with Juries to be too eaſie and compaſſionate in <hi>Acquitting Clippers,</hi> rather than <hi>bringing to Death for ſuch a Crime,</hi> how cruelly ſoever puniſht in other Countries; ſuch a Puniſhment might be for every <hi>Clipper</hi> or <hi>Coiner,</hi> to ſtand one Hour in the Pillory, then to have one half of his Noſe cut off; and after, to be either ſold to the <hi>Planta<g ref="char:EOLhyphen"/>tions</hi> for Seven Years, or employ'd in Work-Houſes at home; which would deter <hi>Eng<g ref="char:EOLhyphen"/>liſh Men</hi> more than Death, and ſave the la<g ref="char:EOLhyphen"/>bour of ſo many <hi>Men,</hi> as well as ſo many <hi>Lives.</hi>
+            </p>
+            <p>After all, the ways of Increaſing the Coin and Wealth of the Nation, at ſuch a time as this, and preſerve it from being too
+<pb n="12" facs="tcp:49337:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 28 -->much Exhauſted, muſt be found out, by Re<g ref="char:EOLhyphen"/>ducing the Balance of our <hi>Trade,</hi> by Sump<g ref="char:EOLhyphen"/>tuary Laws, Exrceating Labour and Manu<g ref="char:EOLhyphen"/>facture, diſcouraging Luxury and Expence, or at leaſt Reducing it to our own Native Commodities.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49337:7"/>
+            <!-- PDF PAGE 28 -->
+         </div>
+      </body>
+   </text>
+</TEI>
